@@ -18,7 +18,11 @@ public class String1 {
 		sb.reverse();
 		System.out.println(sb);
 		System.out.println(add(2,3));
-	Scanner sc = new Scanner(System.in);
+		
+		System.out.println("new changes has been done in cloned git");
+		System.out.println("new changes has been done in cloned git");
+
+		Scanner sc = new Scanner(System.in);
 	int a = sc.nextInt();
 	int b = sc.nextInt();
 	int c;
