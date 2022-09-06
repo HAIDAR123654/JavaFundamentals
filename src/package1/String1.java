@@ -22,6 +22,9 @@ public class String1 {
 		System.out.println("new changes has been done in cloned git");
 		System.out.println("new changes has been done in cloned git");
 
+		System.out.println("new changes has been done in source machine git");
+		System.out.println("new changes has been done in source machine git");
+
 		Scanner sc = new Scanner(System.in);
 	int a = sc.nextInt();
 	int b = sc.nextInt();

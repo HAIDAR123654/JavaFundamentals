@@ -7,6 +7,7 @@ public class Static_concept {
 	
 	static void m1() // STATIC
 	{
+		System.out.println("change kiya hai code source code yani machine se");
 		System.out.println("this is m1 - static method");
 	}
 	
