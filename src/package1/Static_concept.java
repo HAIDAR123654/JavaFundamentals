@@ -15,6 +15,7 @@ public class Static_concept {
 	{
 		System.out.println("this is m2 - non-static method");
 		System.out.println("made changes to see develop branch");
+		System.out.println("made changes to see develop branchfrom souce machine");
 
 	}
 	 
