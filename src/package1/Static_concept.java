@@ -14,6 +14,8 @@ public class Static_concept {
 	 void m2() //NON STATIC
 	{
 		System.out.println("this is m2 - non-static method");
+		System.out.println("made changes to see develop branch");
+
 	}
 	 
 	void m3() //non STATIC
